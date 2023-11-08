@@ -1,9 +1,7 @@
 **** 
 
 
-### Ex. No. :8 CONFIGURING ANALOG PORT TO INTEFACE AN ANALOG SENSOR AND READ THE VALUES USING SERIAL PORT
-## Date: 
-###  
+### Ex. No:8 CONFIGURING ANALOG PORT TO INTEFACE AN ANALOG SENSOR AND READ THE VALUES USING SERIAL PORT
 
 ## Aim: 
 To configure ADC channel for interfacing an analog sensor and read the values on the com port 
@@ -186,13 +184,27 @@ PUTCHAR_PROTOTYPE
 }
 ```
 ## Output :
-![exp8-img](https://github.com/Gopika-9266/Ex.-No.8-CONFIGURING-ANALOG-PORT-TO-INTEFACE-AN-ANALOG-SENSOR-AND-READ-THE-VALUES-USING-SERIAL-PORT/assets/122762773/a3308aac-dd48-45db-bf7f-3aee90556edf)
 
-![exp8-img1](https://github.com/Gopika-9266/Ex.-No.8-CONFIGURING-ANALOG-PORT-TO-INTEFACE-AN-ANALOG-SENSOR-AND-READ-THE-VALUES-USING-SERIAL-PORT/assets/122762773/59522b4b-4f20-4122-8d16-e04505ee94b1)
+### Board Settings and its connections :
 
+![image](https://github.com/Gopika-9266/Ex.-No.8-CONFIGURING-ANALOG-PORT-TO-INTEFACE-AN-ANALOG-SENSOR-AND-READ-THE-VALUES-USING-SERIAL-PORT/assets/122762773/8591c028-b46c-4baa-bb1c-8d9063a3b5bb)
+
+![image](https://github.com/Gopika-9266/Ex.-No.8-CONFIGURING-ANALOG-PORT-TO-INTEFACE-AN-ANALOG-SENSOR-AND-READ-THE-VALUES-USING-SERIAL-PORT/assets/122762773/2465b27b-c97c-4ff2-b110-c2920fa28153)
+
+![image](https://github.com/Gopika-9266/Ex.-No.8-CONFIGURING-ANALOG-PORT-TO-INTEFACE-AN-ANALOG-SENSOR-AND-READ-THE-VALUES-USING-SERIAL-PORT/assets/122762773/c59c580f-11e2-4675-bfc5-f48e350592ef)
+
+### Normal ADC Value :
+
+![image](https://github.com/Gopika-9266/Ex.-No.8-CONFIGURING-ANALOG-PORT-TO-INTEFACE-AN-ANALOG-SENSOR-AND-READ-THE-VALUES-USING-SERIAL-PORT/assets/122762773/5d9939d8-fa08-407f-8314-904d6578d3ca)
+
+### After Light Dipping of soil-moisture-sensor-device in water :
+
+![image](https://github.com/Gopika-9266/Ex.-No.8-CONFIGURING-ANALOG-PORT-TO-INTEFACE-AN-ANALOG-SENSOR-AND-READ-THE-VALUES-USING-SERIAL-PORT/assets/122762773/25b85937-7747-4784-96ee-20f495067358)
+
+![image](https://github.com/Gopika-9266/Ex.-No.8-CONFIGURING-ANALOG-PORT-TO-INTEFACE-AN-ANALOG-SENSOR-AND-READ-THE-VALUES-USING-SERIAL-PORT/assets/122762773/ce523a00-d190-4a74-84b6-032dc2678022)
 
 ## Result :
- Thus, the code is excecuted successfully and the values are mesured.
+ Thus, the code is excecuted successfully and the values are measured.
 
 
 
